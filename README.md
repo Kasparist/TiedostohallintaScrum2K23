@@ -1,0 +1,2 @@
+# TiedostohallintaScrum2K23
+Sasky 2023 TiedostohallintaScrum
